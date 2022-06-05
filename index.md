@@ -14,7 +14,11 @@ For this project, we used OpenCV in order to do all of our vision processing. Ou
 
 ### Demo
 
-https://user-images.githubusercontent.com/17112189/172069027-0da1a88f-2cb5-42a5-a46f-60f3d72f7726.mp4
+<html>
+  <video width="320" height="240" controls>
+  <source src="TicTacToeDemo.mp4" type="video/mp4">
+</video>
+</html>
 
 ### Gameplay Instructions
 - This is a webcam based two player tic tac toe game.
