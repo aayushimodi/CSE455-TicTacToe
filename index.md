@@ -10,6 +10,8 @@ Our goal was to create a program that allows you to play Tic Tac Toe by gesturin
 
 ### Video Demo
 
+https://user-images.githubusercontent.com/17112189/172069027-0da1a88f-2cb5-42a5-a46f-60f3d72f7726.mp4
+
 ### Gameplay Instructions
 - This is a webcam based two player tic tac toe game.
 - To play, click the start button to begin the game, and the tic tac toe grid will pop up.
