@@ -44,9 +44,9 @@ In order to run the code, you may need to import some libaries (Python will erro
 
 ### Resources
 Here are a few of the main resources we used to figure out how to do this project:
-- https://docs.opencv.org/4.x/dd/d43/tutorial_py_video_display.html
-- https://cvexplained.wordpress.com/2020/04/28/color-detection-hsv/#:~:text=inrange%20function%20with%20the%20range,10%20and%20160%20to%20180.
-- https://docs.opencv.org/3.4/da/d97/tutorial_threshold_inRange.html
-- https://docs.opencv.org/3.4/d4/d73/tutorial_py_contours_begin.html
-- https://docs.python.org/3/library/tkinter.html
+<html><a href="https://docs.opencv.org/4.x/dd/d43/tutorial_py_video_display.html"></a></html>
+<html><a href="https://cvexplained.wordpress.com/2020/04/28/color-detection-hsv/#:~:text=inrange%20function%20with%20the%20range,10%20and%20160%20to%20180."></a></html>
+<html><a href="https://docs.opencv.org/3.4/da/d97/tutorial_threshold_inRange.html"></a></html>
+<html><a href="https://docs.opencv.org/3.4/d4/d73/tutorial_py_contours_begin.html"></a></html>
+<html><a href="https://docs.python.org/3/library/tkinter.html"></a></html>
 Beyond these we consulted other documentation for errors and smaller elements of the program that we needed to learn how to do, and lots of Stack Overflow :)
