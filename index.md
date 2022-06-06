@@ -14,7 +14,7 @@ For this project, we used OpenCV in order to do all of our vision processing. Ou
 ### Code Explanation Video
 <html>
   <video width="640" height="480" controls>
-  <source src="ENTER_VIDEO_NAME_HERE" type="video/mp4">
+  <source src="CV Final Video.mp4" type="video/mp4">
 </video>
 </html>
 
