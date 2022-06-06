@@ -11,3 +11,7 @@ In order to run the code, you may need to import some libaries (Python will erro
 
 ### To Play
 Download the tictactoe.py and run it in your terminal with the command `python tictactoe.py`. Press `r` or `b` after hovering over the box you would like to select to place an `X` or `O` there respectively.
+
+### X & O
+![redX](https://user-images.githubusercontent.com/17112189/172221690-15e5ea36-a474-434f-9d00-9af288c24377.jpg)
+![blueO](https://user-images.githubusercontent.com/17112189/172221695-30872774-c235-4886-a2a0-9749dd2caf6d.png)
