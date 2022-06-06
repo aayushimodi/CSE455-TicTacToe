@@ -10,6 +10,11 @@ Our goal was to create a program that allows you to play Tic Tac Toe by gesturin
 For this project, we used OpenCV in order to do all of our vision processing. Our code explanation explains in more detail, but OpenCV enabled us to use the webcam for our game board grid, detect contours only in a specific color range, find the enclosing circles of those contours, and pick the largest one. These steps helped us interact with the user and detect the red X or blue O that they were holding up. Beyond OpenCV, we used Python in order to run the flow of the game and keep track of the game board so we could determine who won. Lastly, we used tkinter and PIL (Python Imaging Library) in order to add start and ending screens and make our program really feel like a game in order to achieve our goal.
 
 ### Code Explanation Video
+<html>
+  <video width="320" height="240" controls>
+  <source src="ENTER_VIDEO_NAME_HERE" type="video/mp4">
+</video>
+</html>
 
 
 ### Demo
